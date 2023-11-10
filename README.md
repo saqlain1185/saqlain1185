@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/6b065a63af6ffe542f29d852cf02f54382438901dd3ee35cafa1752e586a2306/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlain&label=Profile%20views&color=0e75b6&style=flat" alt="saqlain" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlain1185&label=Profile%20views&color=0e75b6&style=flat" alt="saqlain" /> </p>
 
 - 🔭 I’m currently working on **Ecommerce Website**
 
@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqlain1185&show_icons=true&locale=en" alt="saqlain" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqlain1185&" alt="saqlain" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqlain1185&" alt="saqlain1185" /></p>
